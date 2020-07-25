@@ -1,0 +1,12 @@
+module.exports = {
+    printNewTherapistMessage(therapist, patient) {
+        return (
+            `Hi ${patient},\n\nMy name is ${therapist}. And I am matched with you.\n\nWelcome to the online counseling room, which will be our private and sescure place to communicate. This room is open 24/7, and you can enter it at any time, from any internet-connected devicie wherever you are.\n\nTo help us get started, can you please tell me what brought you here? Just write a few short sentences about the challenges you're experiencing or what you would like to talk about and we will go from there.\n\nLooking forward to working with you,\n\n${therapist}\nTeam Pukaar`
+        )
+    },
+    printWelcomeMessage(patient) {
+        return (
+            `Hi ${patient},\nFirstly, we want to congratulate you for reaching out for help. We understand that this process may be new and difficult for you. You have taken the first (and most courageous) step. You have been matched with a certified counselor who will guide you through the next steps.\n\nSo you're probably asking - how does this work? it's quite simple, actually. Just like with any counseling, you and your counselor will discuss any challenges you're facing or might face, and you will develop some positive ways to reach your goals. The difference is that you don't need to come to an office and you don't need to schedule any time out of your day.\nInstead, you can write whenever it's convenient for you, and move forward at a pace that you feel comfortable with.\n\nPleases note that your messages with your counselor arent in real-time but it wont be too long before you get a response from your counselor. Your sessions also have another benefit - you can re-read and reflect on our conversations at any time. Often, going back to a conversation can be very helpful as it's one of those things that will help you and your counselor move forward together.\n\nWhat happens if you feel you and your counselor dont't connect well? While we try to match you with the best counselor for your needs, that can certainly happen! There are over many therapists who work on this platform and you can switch to work with another counselor at any time.\n\nThank you for trying Pukaar.\n\nSincerely,\nTeam Pukaar`
+        )
+    }
+}

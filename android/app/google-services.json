@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1016772725925",
+    "firebase_url": "https://pukaar-community-e6777.firebaseio.com",
+    "project_id": "pukaar-community-e6777",
+    "storage_bucket": "pukaar-community-e6777.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016772725925:android:128976bb237f21c1ddd14c",
+        "android_client_info": {
+          "package_name": "com.pukaar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1016772725925-lv5b21kcso6timsb8fve00ci2tbeupcd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANAHjhg5-294WIbbl9dVO7hM6vgUDN9KA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1016772725925-lv5b21kcso6timsb8fve00ci2tbeupcd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
