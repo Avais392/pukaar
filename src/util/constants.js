@@ -1,8 +1,8 @@
 module.exports = {
-    // serverUrl: "http://192.168.8.101:5000",
-    // socketUrl: "http://192.168.8.101:5000",
-    serverUrl: "https://pukaar.herokuapp.com",
-    socketUrl: "https://pukaar.herokuapp.com",
+    serverUrl: "localhost:5000",
+    socketUrl: "localhost:5000",
+    // serverUrl: "https://pukaar.herokuapp.com",
+    // socketUrl: "https://pukaar.herokuapp.com",
     // serverUrl: "https://backend.pukaarcommunity.com",
     // socketUrl: "https://backend.pukaarcommunity.com",
     facebookUrl: "https://facebook.com/pukaarcommunity",
