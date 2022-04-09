@@ -22,7 +22,7 @@
     "@react-native-firebase/messaging": "^6.7.1",
     "@react-navigation/native": "^5.0.0-alpha.28",
     "axios": "^0.19.1",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "react": "16.9.0",
     "react-moment": "^0.9.7",
     "react-native": "^0.63.1",
